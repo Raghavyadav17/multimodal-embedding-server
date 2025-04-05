@@ -16,7 +16,7 @@ Follow the steps below to set up the server on your local machine.
 To install the required dependencies, use pip:
 ```bash
 pip install -r requirements.txt
-
+```
 This will install the following dependencies:
 
 FastAPI: The web framework to build the API server.
@@ -34,5 +34,5 @@ NumPy: Fundamental package for scientific computing.
 Requests: For making HTTP requests (e.g., for fetching external resources).
 
 OpenCV: For video processing.
-```
+
 
