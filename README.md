@@ -12,7 +12,7 @@ This repository contains a FastAPI server that serves multimodal embeddings. The
 
 Follow the steps below to set up the server on your local machine.
 
-### 1. Install Dependencies 
+### Install Dependencies 
 To install the required dependencies, use pip:
 ```bash
 pip install -r requirements.txt
@@ -34,9 +34,5 @@ NumPy: Fundamental package for scientific computing.
 Requests: For making HTTP requests (e.g., for fetching external resources).
 
 OpenCV: For video processing.
-
-
-### 3. Run the API server
-After installing the dependencies, you can run the FastAPI server with Uvicorn:
 ```bash
-uvicorn app:app --reload
+
