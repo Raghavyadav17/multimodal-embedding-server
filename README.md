@@ -34,5 +34,5 @@ NumPy: Fundamental package for scientific computing.
 Requests: For making HTTP requests (e.g., for fetching external resources).
 
 OpenCV: For video processing.
-```bash
+```
 
